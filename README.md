@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Secret
+****
+
+Email Me 👉 ✉️ **ggm23768@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Automations
+- 🌱 **I’m currently learning:** Middle level programming 
+- 💬 **Ask me about:** Collaboration, Tech Support, 
+- 📫 **How to reach me:** ggm23768@gmail.com 
+- ⚡ **Fun fact:** Sick of garbage collection 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/secretneighbour8435) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jotaroamv.tt) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PlasticMundane804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ggm23768@gmail.com) 

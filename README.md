@@ -1,3 +1,5 @@
+![Uploading IT_guy.png…]()
+
 # 💫 About Me:
 🔭 I’m currently working on<br>🧠 AI-powered applications & cognitive assistance systems<br>📱 Android/AR projects like MineSafe AR<br>🐧 Linux & low-level system projects<br><br>🤝 I’m looking to collaborate on<br>🤖 AI/ML projects<br>🛠️ Open-source Linux & Android projects<br>🔐 Cybersecurity and automation projects<br><br>🌱 I’m currently learning<br>🐍 Python & advanced TypeScript<br>🧠 AI/ML & Computer Vision<br>🔐 Cybersecurity<br>🐧 Linux internals & systems programming<br><br>💬 Ask me about<br>🐧 Arch Linux & Hyprland<br>📱 Android/ROM development<br>🤖 AI projects<br>💻 Programming & automation<br><br>⚡ Fun fact<br>🚀 I like taking things apart, figuring out how they work, and then building my own version.
 
